@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class WebViewer: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
